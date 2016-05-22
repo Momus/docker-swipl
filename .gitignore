@@ -1,2 +1,5 @@
 swipl-image.tgz
 distribute/swipl-binary.tgz
+*.md
+README.md
+distribute/Docerfile
